@@ -1,0 +1,8 @@
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+C:\Users\mario\Documents\GitHub\MissionMars\IoTHubGetStarted\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
